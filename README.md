@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanda Queiroz</h1>
 <h3 align="center">Passionate about science and data analysis.</h3>
 
-- 🌱 I’m currently learning **Python, R and SQL**
+- 🌱 I’m currently learning **Python, Power BI and SQL**
 
 - 💬 Ask me about **Python, Power BI, Excel, SQL**
 
