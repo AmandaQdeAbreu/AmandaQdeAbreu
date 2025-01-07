@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanda Queiroz</h1>
+<h1 align="center">Hi 👋, I'm Amanda Abreu</h1>
 <h3 align="center">Passionate about science and data analysis.</h3>
 
 - 🌱 I’m currently learning **Python, Power BI and SQL**
