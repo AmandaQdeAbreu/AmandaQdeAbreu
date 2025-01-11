@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanda Abreu</h1>
-<h3 align="center">Passionate about science and data analysis.</h3>
+<h3 align="center">Passionate about analysis and data science.</h3>
 
 - 🌱 I have a Postgraduate degree in Analytics and Data Science from ISLA - Instituto Superior de Gestão e Tecnologia (Porto, Portugal)
 
