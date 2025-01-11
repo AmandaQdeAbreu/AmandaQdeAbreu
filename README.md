@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanda Abreu</h1>
 <h3 align="center">Passionate about science and data analysis.</h3>
 
-- 🌱 I’m currently learning **Python, Power BI and SQL**
+- 🌱 I have a Postgraduate degree in Analytics and Data Science from ISLA - Instituto Superior de Gestão e Tecnologia (Porto, Portugal)
 
 - 💬 Ask me about **Python, Power BI, Excel, SQL**
 
