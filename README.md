@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amanda Abreu</h1>
 <h3 align="center">Passionate about analysis and data science.</h3>
 
-- 🌱 I have a Postgraduate degree in Analytics and Data Science from ISLA - Instituto Superior de Gestão e Tecnologia (Porto, Portugal)
+- 🌱I recently graduated in Data Science and Analysis from ISLA - Instituto de Gestão e Tecnolgia in Porto, Portugal.
+- I'm going through a career transition that is proving to be very challenging. So feel free to give feedback on my projects and how I can improve them. I'd be very happy to exchange ideas with more experienced people. =)
 
-- 💬 Ask me about **Python, Power BI, Excel, SQL**
+- 💬 Currently studying: **Python, Machine Learning, SQL, and Power BI**
 
 - 📫 How to reach me **amandaqdeabreu@gmail.com**
 
